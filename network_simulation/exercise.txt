@@ -1,0 +1,1 @@
+W ramach tego zadania zaprojektujesz system służący do modelowania i symulacji działania sieci – na przykładzie “linii produkcyjnych” w fabryce. Następnie wykorzystasz poznaną wiedzę z zakresu technik programowania obiektowego w C++, aby zaimplementować zaprojektowany system.
